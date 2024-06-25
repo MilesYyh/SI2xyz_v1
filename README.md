@@ -5,6 +5,9 @@ It is so confused that why put the coordinates into the SI(PDF format) rather th
 # usage
 bash SI2xyz_v1.sh file size
 
+demo:
+bash SI2xyz_v1.sh test.xyz 4
+
 comment:
 - file
   - is the file that you copy the xyz from the paper of the Supporting information
