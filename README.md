@@ -1,5 +1,6 @@
 # SI2xyz_v1
 a very simple bash scripts for get the xyz in the support information. 
+
 It is so confused that why put the coordinates into the SI(PDF format) rather than providing the xyz file directly.
 # usage
 bash SI2xyz_v1.sh file size
