@@ -10,5 +10,6 @@ comment:
   - is the file that you copy the xyz from the paper of the Supporting information
 - size
   - is the length from the start to the z cooridantefor for a element in you file
+  - for example: "4" with "C -15.61199700 29.80883400 18.85407900 "
  
   
